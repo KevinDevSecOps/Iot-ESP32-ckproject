@@ -5,7 +5,7 @@
 Si encuentras una vulnerabilidad de seguridad en este proyecto, por favor repórtala de inmediato. Seguiremos estos pasos para resolverla:
 
 1. **Envíanos un correo electrónico seguro**:  
-   Por favor, envía un correo a **[tu-Kpcoolkids@gmail.com)** con los detalles de la vulnerabilidad. Incluye:
+   Por favor, envía un correo a **(Kpcoolkids@gmail.com)** con los detalles de la vulnerabilidad. Incluye:
    - Pasos para reproducir el problema.
    - Impacto potencial.
    - Cualquier otra información relevante.
