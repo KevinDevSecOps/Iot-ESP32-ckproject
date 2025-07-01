@@ -1,0 +1,3 @@
+git add CONTRIBUTING.md
+git commit -m "Añadido archivo CONTRIBUTING.md con guías para colaboradores"
+git push origin main
